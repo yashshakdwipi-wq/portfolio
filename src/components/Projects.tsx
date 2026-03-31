@@ -73,9 +73,6 @@ export const Projects = () => {
                   <h3 className="text-xl font-display font-bold mb-2 group-hover:text-accent transition-colors">
                     {project.title}
                   </h3>
-                  <p className="text-sm text-muted-foreground line-clamp-2 mb-4">
-                    {project.description}
-                  </p>
                   {project.caseStudy && (
                     <div className="flex items-center gap-2 text-sm font-medium text-primary group-hover:gap-3 transition-all">
                       View Case Study
