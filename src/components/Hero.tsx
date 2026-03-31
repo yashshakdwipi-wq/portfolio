@@ -91,8 +91,8 @@ export const Hero = () => {
             <div className="absolute inset-0 bg-accent/20 rounded-full blur-3xl" />
             <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-background shadow-2xl">
               <img 
-                src="https://picsum.photos/seed/designer/800/800" 
-                alt="Designer Profile"
+                src="https://github.com/yashshakdwipi-wq.png" 
+                alt="Yash Shakdwipi Profile"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
